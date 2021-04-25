@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Fusion/static/css/main.e5e3414e.chunk.css",
-    "main.js": "/Fusion/static/js/main.f23afe06.chunk.js",
-    "main.js.map": "/Fusion/static/js/main.f23afe06.chunk.js.map",
+    "main.js": "/Fusion/static/js/main.63eae07f.chunk.js",
+    "main.js.map": "/Fusion/static/js/main.63eae07f.chunk.js.map",
     "runtime-main.js": "/Fusion/static/js/runtime-main.6d769777.js",
     "runtime-main.js.map": "/Fusion/static/js/runtime-main.6d769777.js.map",
     "static/css/2.c7db976e.chunk.css": "/Fusion/static/css/2.c7db976e.chunk.css",
@@ -22,6 +22,6 @@
     "static/css/2.c7db976e.chunk.css",
     "static/js/2.5a6cfcf1.chunk.js",
     "static/css/main.e5e3414e.chunk.css",
-    "static/js/main.f23afe06.chunk.js"
+    "static/js/main.63eae07f.chunk.js"
   ]
 }
