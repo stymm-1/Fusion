@@ -43,7 +43,7 @@ class Header extends Component {
                     <div className="container">
                         <NavbarToggler onClick={this.toggleNav} />
                         <NavbarBrand className="mr-auto" href="https://stymm-1.github.io/Fusion">
-                            <img src="assets/images/logo.png" height="30" width="41" 
+                            <img src="Fusion/assets/images/logo.png" height="30" width="41" 
                                 alt="Fusion" />
                         </NavbarBrand>
                         <Modal isOpen={this.state.isModalOpen} toggle={this.toggleModal}>
