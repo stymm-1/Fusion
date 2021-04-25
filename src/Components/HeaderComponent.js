@@ -42,7 +42,7 @@ class Header extends Component {
                 <Navbar dark expand="md">
                     <div className="container">
                         <NavbarToggler onClick={this.toggleNav} />
-                        <NavbarBrand className="mr-auto" href="/">
+                        <NavbarBrand className="mr-auto" href="https://stymm-1.github.io/Fusion">
                             <img src="assets/images/logo.png" height="30" width="41" 
                                 alt="Fusion" />
                         </NavbarBrand>
