@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/Fusion/static/css/main.e5e3414e.chunk.css",
+    "main.js": "/Fusion/static/js/main.f23afe06.chunk.js",
+    "main.js.map": "/Fusion/static/js/main.f23afe06.chunk.js.map",
+    "runtime-main.js": "/Fusion/static/js/runtime-main.6d769777.js",
+    "runtime-main.js.map": "/Fusion/static/js/runtime-main.6d769777.js.map",
+    "static/css/2.c7db976e.chunk.css": "/Fusion/static/css/2.c7db976e.chunk.css",
+    "static/js/2.5a6cfcf1.chunk.js": "/Fusion/static/js/2.5a6cfcf1.chunk.js",
+    "static/js/2.5a6cfcf1.chunk.js.map": "/Fusion/static/js/2.5a6cfcf1.chunk.js.map",
+    "static/js/3.5668ef24.chunk.js": "/Fusion/static/js/3.5668ef24.chunk.js",
+    "static/js/3.5668ef24.chunk.js.map": "/Fusion/static/js/3.5668ef24.chunk.js.map",
+    "index.html": "/Fusion/index.html",
+    "static/css/2.c7db976e.chunk.css.map": "/Fusion/static/css/2.c7db976e.chunk.css.map",
+    "static/css/main.e5e3414e.chunk.css.map": "/Fusion/static/css/main.e5e3414e.chunk.css.map",
+    "static/js/2.5a6cfcf1.chunk.js.LICENSE.txt": "/Fusion/static/js/2.5a6cfcf1.chunk.js.LICENSE.txt",
+    "static/media/font-awesome.css": "/Fusion/static/media/fontawesome-webfont.f691f37e.woff",
+    "static/media/logo.6ce24c58.svg": "/Fusion/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6d769777.js",
+    "static/css/2.c7db976e.chunk.css",
+    "static/js/2.5a6cfcf1.chunk.js",
+    "static/css/main.e5e3414e.chunk.css",
+    "static/js/main.f23afe06.chunk.js"
+  ]
+}
